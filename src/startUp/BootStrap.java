@@ -1,10 +1,10 @@
 package startUp;
 
-import GameWindos.LoginFrame;
+import GameWindos.MainMenuFrame;
 
 public class BootStrap {
     public static void main(String[] args) {
-        //Æô¶¯¸ÃÓÎÏ·
-        LoginFrame login = LoginFrame.getInstance();
+        //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï·
+        MainMenuFrame mainMenu = MainMenuFrame.getInstance();
     }
 }
